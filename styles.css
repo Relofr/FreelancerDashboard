@@ -1,0 +1,12 @@
+body {
+  background-color: #252830;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.headline {
+  color: rgb(255, 255, 255);
+}
+
+.dropdown-links a.active {
+  background-color: rgb(151, 174, 223);
+}
